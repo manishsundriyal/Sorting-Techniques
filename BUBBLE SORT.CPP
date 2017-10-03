@@ -31,3 +31,5 @@ for(i=0;i<n;i++){
 
 getch();
 }
+// Time complexity: O(N^2)
+// Space complexity: O(1)
